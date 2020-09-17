@@ -1,0 +1,15 @@
+#vaszon {width: 300px;
+        height: 300px;
+        background-color: ivory;}
+
+#rectangle {background-color:red;
+            width: 400px;
+            height: 300px;} 
+#big-rectangle {width: 70%;
+                height: 100%;}
+.red{background-color: red;}
+.right {float: right;}
+#first-divider {height: 100%; width: 3%;}
+.black {background-color: black;
+}
+#first-row {background-color: brown;}
